@@ -12,4 +12,4 @@ I am also starting to learn Portuguese.
 
 Outside of my studies, my main passions are football, which I played for 14 years, writing and the world of multimedia communication. 
 
-I hope you find my repos interesting and feel free to contact me with any questions you may have (diego.bartoli.ts@gmail.com)!
+I hope you find my repos interesting and feel free to contact me with any questions you may have!
